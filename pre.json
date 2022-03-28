@@ -1,3 +1,10 @@
-{
-    
-}
+[
+    {
+        "name": "ABC",
+        "address": "0x222",
+        "decimal": "6",
+        "preWallet": "0x1",
+        "targetAmount": "1000000000",
+        "processing": false
+    }
+]
