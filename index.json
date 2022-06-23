@@ -526,5 +526,16 @@
     "tokenAddress2":"0x7d9c9065Ee0eEd5908Ab422505BE4A6ee72964Ae",
     "tokenDecimal2":8,
     "isShow":true
+  },
+  {
+    "id":48,
+    "poolName":"50% USDT + 50% ZCT",
+    "tokenName1":"USDT",
+    "tokenAddress1":"0xeC23081F82098395936B9265acCb6e091E164C93",
+    "tokenDecimal1":6,
+    "tokenName2":"ZCT",
+    "tokenAddress2":"0xdbb91d9864e710e2fa43d03b84d8de5b2ef2f51f",
+    "tokenDecimal2":18,
+    "isShow":true
   }
 ]
